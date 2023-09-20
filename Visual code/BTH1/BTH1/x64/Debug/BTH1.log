@@ -1,0 +1,3 @@
+﻿  Ma tran.cpp
+D:\Trên lớp\One code lesson per day\One-code-lesson-per-day\Visual code\BTH1\BTH1\Ma tran.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BTH1.vcxproj -> D:\Trên lớp\One code lesson per day\One-code-lesson-per-day\Visual code\BTH1\x64\Debug\BTH1.exe
